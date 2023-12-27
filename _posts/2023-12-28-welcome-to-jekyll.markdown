@@ -29,7 +29,8 @@ public class OrderMgmtApplication {
 {% endhighlight %}
 
 Here is a video:
-<iframe width="560" height="315" src="http://www.youtube.com/embed/mDZjYmVjfzA?autoplay=1" frameborder="0" allowfullscreen></iframe>
+<iframe id="video" width="560" height="315" src="https://www.youtube.com/embed/mDZjYmVjfzA/" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
+
 
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
